@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tourist Application</string>
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Forgot Password</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="btn_lbl_reset">Reset Password</string>
+
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register"><u>Register</u></string>
+    <string name="top_cities">Top Cities</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="hint_name"> Name </string>
+    <string name="et_hint_confirm_password"> Confirm Password </string>
+    <string name="i_agree_to_the_terms_and_conditions"> I Agree To The <u>Terms ^ Conditions</u> </string>
+    <string name="btn_lbl_register"> Register </string>
+    <string name="already_have_an_account"> Already have an account? </string>
+    <string name="login"><u>Login</u> </string>
+    <string name="profile">Profile</string>
+    <string name="signout">Signout</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="tap_to_upload_photo">Tap to upload photo</string>
+    <string name="tap_to_upload_photo2">Tap to upload photo</string>
+    <string name="change_your_display_name">Change your display name</string>
+    <string name="add_city_you_visited">Add city you visited</string>
+    <string name="tap_to_upload_the_city_photo">Tap to upload the city photo</string>
+    <string name="add_city">Add city</string>
+
+    <string name="placeholder_image">Placeholder Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="show_all">Show photos from cities you visited</string>
+
+</resources>
